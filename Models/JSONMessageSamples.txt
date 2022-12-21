@@ -1,0 +1,7 @@
+Simio/Sewickley/Dispatch
+
+{ "d": [{"SOId": "Order0001","Customer": "test1","MaterialName": "ProductA","SiteObjectName": "LogisticsArea1","ReleaseDate": "12/20/2022 19:26:05","DueDate": "12/20/2022 21:26:05","Priority": "51","Quantity": "1"},{"SOId": "Order0002","Customer": "test1","MaterialName": "ProductB","SiteObjectName": "LogisticsArea1","ReleaseDate": "12/20/2022 19:27:32","DueDate": "12/20/2022 21:27:32","Priority": "280","Quantity": "1"},{"SOId": "Order0003","Customer": "test1","MaterialName": "ProductB","SiteObjectName": "LogisticsArea1","ReleaseDate": "12/20/2022 19:27:40","DueDate": "12/20/2022 21:27:40","Priority": "346","Quantity": "1"},{"SOId": "Order0004","Customer": "test1","MaterialName": "ProductB","SiteObjectName": "LogisticsArea1","ReleaseDate": "12/20/2022 19:28:39","DueDate": "12/20/2022 21:28:39","Priority": "98","Quantity": "1"}]}
+
+Simio/Sewickley/MaterialHandling/AMRs/AMR1/Position
+
+{"z": "40.00", "x": "30.00"}
